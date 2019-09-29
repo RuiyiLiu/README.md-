@@ -1,0 +1,4 @@
+The codes to control the grass is "line(x, height-20, x+random(-10, 10), height-5-random(h));”
+I think “lawnmower” is control by the “ if (random(100) > 99.9)”. How often is depends the (“height-15)
+H is the height of the grass.
+Speed and the height of the growing grass. Because the variable quantity decide the time of growing grass. 
