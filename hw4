@@ -1,0 +1,3 @@
+The time is depend the mouse moving speed.
+one is the change i = i +?  number, another is  ? + (x.length - i)
+change the x.slice(number) and y.slice(number).
